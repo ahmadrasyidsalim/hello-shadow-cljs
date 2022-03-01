@@ -1,0 +1,10 @@
+{
+  "name": "hello-shadow-cljs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmad Rasyid Salim <ahmadrasyidsalim@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "shadow-cljs": "^2.17.5"
+  }
+}

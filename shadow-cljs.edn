@@ -1,0 +1,8 @@
+{:source-paths ["src"]
+ :builds {:frontend
+          {:target :browser
+           :modules {:main {:init-fn hello-shadow-cljs.core/init}}
+           }
+          }
+ :dev-http {8080 "public"}
+ }
